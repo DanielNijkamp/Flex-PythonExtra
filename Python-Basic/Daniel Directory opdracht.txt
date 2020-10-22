@@ -1,0 +1,16 @@
+Folder PATH listing for volume Windows
+Volume serial number is 1C4B-571E
+C:.
+└───f1m1
+    ├───beroep
+    ├───pvaardig
+    │   ├───les01
+    │   ├───les02
+    │   │   └───geheim
+    │   ├───les03
+    │   ├───les04
+    │   ├───les05
+    │   ├───les06
+    │   ├───les07
+    │   └───les08
+    └───python
